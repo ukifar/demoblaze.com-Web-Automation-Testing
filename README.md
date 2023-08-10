@@ -20,7 +20,7 @@ You can access the details of the manual test case and testing report through th
 
 ## Tools
 <div>
-    <p style="margin-bottom: 5px;">Manual Testing</p>
+    <p style="margin-bottom: 1px;">Manual Testing</p>
     <a style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/-Google%20Chrome-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
     <p style="margin-bottom: 5px;">Test Case Management</p>
     <a style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/-Google%20Spreadsheet-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
