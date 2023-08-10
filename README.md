@@ -20,20 +20,20 @@ You can access the details of the manual test case and testing report through th
 
 ## Tools
 <div>
-<p>Manual Testing</p>
-      <a><img src="https://img.shields.io/badge/-Google%20Chrome-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
-      <p>Test Case Management</p>
-      <a><img src="https://img.shields.io/badge/-Google%20Spreadsheet-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
-      <p>Automation Testing</p>
-      <img src="https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&color=9F0D7F">
-      <img src="https://img.shields.io/badge/-Apache%20Maven-181717?style=for-the-badge&logo=Apache%20Maven&color=9F0D7F&logoColor=white">
-      <img src="https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber&color=9F0D7F&logoColor=white">
-      <img src="https://img.shields.io/badge/-Rest%20Assured-181717?style=for-the-badge&logo=Rest-Assured&color=9F0D7F&logoColor=white">
-      <img src="https://img.shields.io/badge/-serenity bdd-181717?style=for-the-badge&logo=serenitybdd&color=9F0D7F&logoColor=white">
-      <img src="https://img.shields.io/badge/-IntelliJ IDEA-181717?style=for-the-badge&logo=intellij-idea&color=9F0D7F">
-      <img src="https://img.shields.io/badge/-Gherkin-181717?style=for-the-badge&logo=gherkin&color=9F0D7F">
-      <p>Management Project</p>
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=9F0D7F">
+    <p style="margin-bottom: 5px;">Manual Testing</p>
+    <a style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/-Google%20Chrome-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
+    <p style="margin-bottom: 5px;">Test Case Management</p>
+    <a style="margin-bottom: 5px;"><img src="https://img.shields.io/badge/-Google%20Spreadsheet-181717?style=for-the-badge&logo=GoogleChrome&color=9F0D7F&logoColor=white"></a>
+    <p style="margin-bottom: 5px;">Automation Testing</p>
+    <img src="https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java&color=9F0D7F">
+    <img src="https://img.shields.io/badge/-Apache%20Maven-181717?style=for-the-badge&logo=Apache%20Maven&color=9F0D7F&logoColor=white">
+    <img src="https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber&color=9F0D7F&logoColor=white">
+    <img src="https://img.shields.io/badge/-Rest%20Assured-181717?style=for-the-badge&logo=Rest-Assured&color=9F0D7F&logoColor=white">
+    <img src="https://img.shields.io/badge/-serenity bdd-181717?style=for-the-badge&logo=serenitybdd&color=9F0D7F&logoColor=white">
+    <img src="https://img.shields.io/badge/-IntelliJ IDEA-181717?style=for-the-badge&logo=intellij-idea&color=9F0D7F">
+    <img src="https://img.shields.io/badge/-Gherkin-181717?style=for-the-badge&logo=gherkin&color=9F0D7F">
+    <p style="margin-bottom: 5px;">Management Project</p>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&color=9F0D7F">
 </div>
 
 ## Quality Assurance Engineer:
