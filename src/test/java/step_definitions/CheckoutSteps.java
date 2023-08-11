@@ -7,6 +7,7 @@ import cucumber.api.java.en.When;
 import org.example.pageObject.CartPage;
 import org.example.pageObject.LandingPage;
 import org.example.pageObject.ProductDescriptionPage;
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
 public class CheckoutSteps {
@@ -120,5 +121,11 @@ public class CheckoutSteps {
     @And("product successfully added")
     public void productSuccessfullyAdded() {
         webDriver.switchTo().alert().accept();
+    }
+
+    @And("user verifies the total price of item is \"(.*)\"")
+    public void userVerifiesTheTotalPriceOfItemIs(String totalPrice) {
+        CartPage cartPage = new CartPage(webDriver);
+        Assert.assertEquals(totalPrice, cartPage.verifyPriceVerification());
     }
 }

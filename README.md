@@ -2,7 +2,7 @@
 <img width="40%" src="./src/test/resources/input_files/logoKecilDemoblaze.jpg"><br/>
 <summary><h1 style="display-inline:block">Web Automation Testing (Demoblaze.com)</h1></summary>
 Web Automation Testing using Serenity BDD on website Demoblaze.com <br/>
-<a href="https://docs.google.com/spreadsheets/d/14WUhyhZ10pVhGNW0ffGV-eRbs1IfXXD1/edit?usp=sharing&ouid=108965271281138448182&rtpof=true&sd=true" target="blank"><img src="https://img.shields.io/badge/-Test%20Case%20Scenario-181717?style=for-the-badge&logo=microsoft-excel&color=9F0D7F&logoColor=white" /></a>
+<a href="https://docs.google.com/spreadsheets/d/14WUhyhZ10pVhGNW0ffGV-eRbs1IfXXD1/edit#gid=591553461" target="blank"><img src="https://img.shields.io/badge/-Test%20Case%20Scenario-181717?style=for-the-badge&logo=microsoft-excel&color=9F0D7F&logoColor=white" /></a>
 <a href="https://drive.google.com/drive/folders/13Ju3le6TNJBYxDFe7fgt_MKUUnJnKT74?usp=sharing" target="blank"><img src="https://img.shields.io/badge/-Report%20Document-181717?style=for-the-badge&logo=microsoft-PowerPoint&color=9F0D7F&logoColor=white" /></a>
 
 

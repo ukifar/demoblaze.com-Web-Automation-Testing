@@ -77,7 +77,7 @@ Feature: Checkout
     Then click add to cart button
     And product successfully added
     When user click on cart menu button
-    And user verifies the total price of item is "790"
+    And user verifies the total price of item is "360"
     And click on place order button
     And place order pop up will be showed
     Then user input "Tester" as Name and "CreditCard" as credit card on place order field

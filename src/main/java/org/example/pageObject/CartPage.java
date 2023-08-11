@@ -26,6 +26,8 @@ public class CartPage {
     private WebElement thankYouPurchasePopup;
     @FindBy(xpath = "//a[.='Delete']")
     private WebElement deleteItemButton;
+    @FindBy(xpath = "//h3[@id='totalp']")
+    private WebElement priceVerification;
     public void clickOnPlaceOrderButton() {
         placeOrderButton.click();
     }
@@ -46,6 +48,9 @@ public class CartPage {
     }
     public void clickOnDeleteItemButton() {
         deleteItemButton.click();
+    }
+    public String verifyPriceVerification() {
+        return priceVerification.getText();
     }
 
 }
